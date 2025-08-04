@@ -12,6 +12,9 @@ html, body {
 }
 
 .buttons-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     background-color: black;
 }
 
@@ -20,6 +23,6 @@ html, body {
     cursor: pointer;
     color: white;
     background-color: transparent;
-    font-size: 20px;
-    margin-right: 20px;
+    font-size: 18px;
+    margin: 15px;
 }
