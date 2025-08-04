@@ -9,6 +9,12 @@
 
 Построен на базе библиотеки [Playable](https://wix.github.io/playable/).
 
+## Примеры 
+
+- [Плеер](https://aw1ks.github.io/We-are-laying-out-a-video-player/) в браузере
+- страница с минимальными настройками - [index.html](https://github.com/Aw1ks/We-are-laying-out-a-video-player/blob/main/index.html)
+
+
 ## Как подключить
 
 JS код поставляется в виде одного файла `player.js`, который нужно скачать из этого репозитория. Для работы он требует двух библиотек - [jQuery](https://jquery.com/) и [Playable](https://wix.github.io/playable/). Пример подключения в браузере:
