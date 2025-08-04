@@ -7,8 +7,9 @@ html, body {
     background-color: black;
 }
 
-.castom_play_button {
+.video_button_customization {
     border: none; 
     cursor: pointer;
     color: white;
+    background-color: transparent;
 }
