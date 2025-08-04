@@ -7,8 +7,8 @@ html, body {
     background-color: black;
 }
 
-.video_button_customization {
-    border: none; 
+.video-button-customization {
+    border: #fff; 
     cursor: pointer;
     color: white;
     background-color: transparent;
